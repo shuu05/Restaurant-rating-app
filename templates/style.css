@@ -1,0 +1,22 @@
+body {
+  background-image: url("../static/pic.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+}
+h1 {
+  text-align: center;
+  padding: 4rem;
+}
+form input {
+  width: 35%;
+  opacity: 0.8;
+  border: none;
+  outline: none;
+}
+form div {
+  text-align: center;
+  align-items: center;
+  margin: 5px;
+  padding: 5px;
+}
